@@ -83,3 +83,4 @@ Temporary Items
 !.vscode/extensions.json
 *.code-workspace
 
+test/
