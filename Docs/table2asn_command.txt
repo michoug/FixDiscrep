@@ -1,0 +1,1 @@
+tbl2asn -a r10k -l paired-ends -M n -N 1 -t BRBODY_MAG_00001.sbt -i BRBODY_MAG_00001.fsa -Z BRBODY_MAG_00001_discrep

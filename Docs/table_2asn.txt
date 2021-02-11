@@ -1,0 +1,1 @@
+../FixDiscrep/Bin/Linux/table2asn_GFF.Linux-3.10.0-1127.10.1.el7.x86_64-x86_64 -M n -J -c w -t BRBODY_MAG_00001.sbt -i BRBODY_MAG_00001.fsa -Z
